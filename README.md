@@ -28,7 +28,7 @@
 ### 1) 获取项目
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/balabalajia/chrome_focus
 cd focus
 ```
 
@@ -47,6 +47,11 @@ cd focus
    - 完整网址：`https://example.com/path?a=1`
 3. 访问命中规则的网址时，会自动跳转到阻止页
 
+
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
 ---
 
 ## 规则说明
